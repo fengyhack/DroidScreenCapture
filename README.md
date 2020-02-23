@@ -1,4 +1,4 @@
-# CaptureScreen
+# Droid Screen Capture
 
 Android 5.0+
 
